@@ -3,7 +3,7 @@
     "name": "SmartDoorSystem",
     "slug": "SmartDoorSystem",
     "version": "1.0.0",
-    "orientation": "potrait",
+    "orientation": "default",
     "icon": "./app/assets/icon.png",
     "splash": {
       "image": "./app/assets/splash.png",
